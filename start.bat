@@ -1,0 +1,1 @@
+python comfy_batch.py
